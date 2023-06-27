@@ -1,5 +1,9 @@
 # belly-button-challenge
 
+## Deployment
+The static page deployment can be found here:
+https://agorvie.github.io/belly-button-challenge/
+
 ## Background
 This repository contains code and resource files that will build an interactive dashboard to explore the Belly Button Biodiversity datasetLinks to an external site, which catalogs the microbes that colonize human navels.
 
