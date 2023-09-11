@@ -17,8 +17,12 @@ I utilized the D3 library to read the data from the provided URL: https://2u-dat
 #### Create Horizontal Bar Chart:
 I built a horizontal bar chart that features a dropdown menu, showcasing the top 10 OTUs found in an individual. The chart utilizes sample_values as values for the bars, otu_ids as labels, and otu_labels for hover text.
 
+https://github.com/agorvie/Belly-Button-Biodiversity-Dashboard/blob/main/H_Bar_chart.png
+
 #### Create Bubble Chart:
 I designed a bubble chart to effectively display each sample. This chart utilizes otu_ids for the x values, sample_values for the y values, sample_values for marker size, otu_ids for marker colors, and otu_labels for text values.
+
+https://github.com/agorvie/Belly-Button-Biodiversity-Dashboard/blob/main/Bubble_chart.png
 
 #### Display Sample Metadata:
 Demographic information for an individual is displayed through the presentation of each key-value pair from the metadata JSON object on the page.
@@ -33,6 +37,8 @@ Additionally, I had the option to take on an advanced challenge:
 
 #### Advanced Challenge (Optional):
 I successfully adapted the Gauge Chart from https://plot.ly/javascript/gauge-charts/ to visualize the weekly washing frequency of an individual. This task required me to modify the gauge code to accommodate values ranging from 0 through 9, and ensuring seamless chart updates whenever a new sample was selected.
+
+https://github.com/agorvie/Belly-Button-Biodiversity-Dashboard/blob/main/Gauge_chart.png
 
 ### References
 Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/Links to an external site.
