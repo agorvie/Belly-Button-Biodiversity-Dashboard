@@ -3,7 +3,7 @@ This repository contains an interactive dashboard for exploring the Belly Button
 
 ## Deployment
 The static page deployment can be found here:
-https://agorvie.github.io/belly-button-challenge/
+https://agorvie.github.io/Belly-Button-Biodiversity-Dashboard/
 
 ## Background
 The Belly Button Biodiversity dataset reveals that a few microbial species are commonly present in more than 70% of people, while the rest are relatively rare. The goal of this project is to build an interactive dashboard that visualizes and explores this dataset.
