@@ -1,5 +1,5 @@
-# Belly Button Biodiversity Dashboard Challenge
-This repository contains an interactive dashboard for exploring the Belly Button Biodiversity dataset. It is part of my coursework for the Washignton University Data Analytics BootCamp. The dataset catalogs the microbes that colonize human navels, specifically focusing on operational taxonomic units (OTUs) present in individuals' belly buttons.
+# Belly Button Biodiversity Dashboard Project
+The goal of this project is to create an interactive dashboard for exploring the Belly Button Biodiversity dataset. It is part of my coursework for the Washignton University Data Analytics BootCamp. The dataset catalogs the microbes that colonize human navels, specifically focusing on operational taxonomic units (OTUs) present in individuals' belly buttons.
 
 ## Deployment
 The static page deployment can be found here:
