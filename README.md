@@ -1,4 +1,20 @@
 # Belly Button Biodiversity Dashboard Project
+
+# Table of Contents
+1. [Belly Button Biodiversity Dashboard Project](#belly-button-biodiversity-dashboard-project)
+2. [Deployment](#deployment)
+3. [Background](#background)
+4. [Steps Taken](#steps-taken)
+    - [Read Data with D3](#read-data-with-d3)
+    - [Create Horizontal Bar Chart](#create-horizontal-bar-chart)
+    - [Create Bubble Chart](#create-bubble-chart)
+    - [Display Sample Metadata](#display-sample-metadata)
+    - [Update Plots](#update-plots)
+    - [Layout and Customization](#layout-and-customization)
+5. [Advanced Challenge (Optional)](#advanced-challenge-optional)
+6. [References](#references)
+
+# Belly Button Biodiversity Dashboard Project
 The goal of this project is to create an interactive dashboard for exploring the Belly Button Biodiversity dataset. It is part of my coursework for the Washignton University Data Analytics BootCamp. The dataset catalogs the microbes that colonize human navels, specifically focusing on operational taxonomic units (OTUs) present in individuals' belly buttons.
 
 ## Deployment
